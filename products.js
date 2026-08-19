@@ -6,7 +6,7 @@ export const products = [
     price: 25,
     stock: 10,
     rating: 4.8,
-    image: "https://via.placeholder.com/200?text=Mouse",
+    image: "/src/Gaming mouse.jpg",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const products = [
     price: 60,
     stock: 5,
     rating: 4.7,
-    image: "https://via.placeholder.com/200?text=Keyboard",
+    image: "/src/RGB Backlit Mechanical Gaming Keyboard with Multimedia Control Knob.jpg",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const products = [
     price: 45,
     stock: 0,
     rating: 4.2,
-    image: "https://via.placeholder.com/200?text=Headset",
+    image: "/src/headset.jpg ",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const products = [
     price: 180,
     stock: 4,
     rating: 4.9,
-    image: "https://via.placeholder.com/200?text=Monitor",
+    image: "/src/32 Inch QHD 180Hz Curved Gaming Monitor with 0_5ms & FreeSync.jpg",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const products = [
     price: 150,
     stock: 2,
     rating: 4.6,
-    image: "https://via.placeholder.com/200?text=Chair",
+    image: "/src/Gaming & Streaming Chairs 2026 🎮 Ergonomic, Reclining & Long-Hour Comfort.jpg  ",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const products = [
     price: 200,
     stock: 1,
     rating: 4.4,
-    image: "https://via.placeholder.com/200?text=Desk",
+    image: "/src/BestOffice Bureau de jeu.jpg",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const products = [
     price: 35,
     stock: 7,
     rating: 4.1,
-    image: "https://via.placeholder.com/200?text=Webcam",
+    image: "./src/The Elgato Facecam 4K Supports Swappable Camera___.jpg",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const products = [
     price: 70,
     stock: 8,
     rating: 4.8,
-    image: "https://via.placeholder.com/200?text=Mic",
+    image: "./src/Fifine XLR_USB Dynamic Podcasting Microphone, Gaming Studio Computer PC Mic with RGB, Mute Button, Headphones Jack, Desktop Stand for Streaming.jpg",
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const products = [
     price: 55,
     stock: 0,
     rating: 4.5,
-    image: "https://via.placeholder.com/200?text=Controller",
+    image: "https://i.pinimg.com/736x/94/5f/31/945f317f3e3bc7afd59d4fb44a9628d7.jpg",
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const products = [
     price: 90,
     stock: 9,
     rating: 4.9,
-    image: "https://via.placeholder.com/200?text=SSD",
+    image: "https://i.pinimg.com/1200x/9a/b6/66/9ab666f52808794b673173b89d94833b.jpg",
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const products = [
     price: 80,
     stock: 3,
     rating: 4.7,
-    image: "https://via.placeholder.com/200?text=RAM",
+    image: "https://i.pinimg.com/736x/2a/a0/79/2aa079af5959d997dde7d15676b070ab.jpg",
   },
   {
     id: 12,
@@ -105,6 +105,6 @@ export const products = [
     price: 450,
     stock: 2,
     rating: 5,
-    image: "https://via.placeholder.com/200?text=GPU",
+    image: "https://i.pinimg.com/1200x/d9/83/5c/d9835cc913940b865203d4cfe51d357d.jpg",
   },
 ];
